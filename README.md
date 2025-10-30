@@ -7,7 +7,7 @@ It includes topics like Object-Oriented Programming, STL, templates, and data st
 
 - [First](./first.cpp)
 - [Sum](./first2.cpp)
--[Array](./Array.cpp)
--[Inline](./inline.cpp)
--[Macro](./macro.cpp)
--[Macro2](./macro2.cpp)
+- [Array](./Array.cpp)
+- [Inline](./inline.cpp)
+- [Macro](./macro.cpp)
+- [Macro2](./macro2.cpp)
