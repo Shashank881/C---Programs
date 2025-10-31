@@ -27,4 +27,8 @@ It includes topics like Object-Oriented Programming, STL, templates, and data st
 - [Scope2](./scope2.cpp)
 - [Scope3](./scope3.cpp)
 ### 📂 Others
-
+- [Array](./array.cpp)
+- [DeepCopy](./deepcopy.cpp)
+- [Default](./default.cpp)
+- [Default2](./default2.cpp)
+- [DoWhile](./dowhile.cpp)
