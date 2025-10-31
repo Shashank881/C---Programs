@@ -19,4 +19,12 @@ It includes topics like Object-Oriented Programming, STL, templates, and data st
 - [Function](./functionin.cpp)
 - [Function2](./functionout.cpp)
 - [Function3](./functionover.cpp)
-- 
+### 📂 Template
+- [Template](./template.cpp)
+- [Template2](./template2.cpp)
+### 📂 Scope Resolution
+- [Scope](./scope.cpp)
+- [Scope2](./scope2.cpp)
+- [Scope3](./scope3.cpp)
+### 📂 Others
+
