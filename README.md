@@ -33,3 +33,11 @@ It includes topics like Object-Oriented Programming, STL, templates, and data st
 - [DoWhile](./dowhile.cpp)
 - [Namespace](./namespace.cpp)
 - [SizeOf](./sizeof.cpp)
+# 🤝 Contribution
+Contributions are always welcome!
+Fork the repository
+Create a new branch (feature/new-program)
+Commit your changes
+Submit a pull request 🚀
+# 📄 License
+This project is licensed under the MIT License – you can freely use, modify, and share the code with credit.
