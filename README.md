@@ -11,6 +11,7 @@ It includes topics like Object-Oriented Programming, STL, templates, and data st
 - [Inline](./inline.cpp)
 - [Macro](./macro.cpp)
 - [Macro2](./macro2.cpp)
+- [SizeOf](./sizeof.cpp)
 ### 📂 Constructor
 - [Constructor](./constructor.cpp)
 - [Constructor2](./constructor2.cpp)
@@ -32,7 +33,6 @@ It includes topics like Object-Oriented Programming, STL, templates, and data st
 - [Default2](./default2.cpp)
 - [DoWhile](./dowhile.cpp)
 - [Namespace](./namespace.cpp)
-- [SizeOf](./sizeof.cpp)
 - [OperatorOverload](./opearatorover.cpp)
 - [OpearatorOverload2](./operatorover2.cpp)
 - [UsingThis](./this.cpp)
