@@ -33,6 +33,9 @@ It includes topics like Object-Oriented Programming, STL, templates, and data st
 - [DoWhile](./dowhile.cpp)
 - [Namespace](./namespace.cpp)
 - [SizeOf](./sizeof.cpp)
+- [OperatorOverload](./opearatorover.cpp)
+- [OpearatorOverload2](./operatorover2.cpp)
+- [UsingThis](./this.cpp)
 # 🤝 Contribution
 Contributions are always welcome!
 Fork the repository
